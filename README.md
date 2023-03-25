@@ -11,7 +11,19 @@ number of stars a repository has.
 
 - Scraping across multiple pages
 - Extract Structure Data
-- Outout Data into a CSV File
+- Output data can be in any file format like:
+    -   CSV
+    -   Excel
+    -   JSON
+    -   HTML
+    -   Dict
+
+- Output data can be saved in any database like:
+    -   MongoDB
+    -   Firebase
+    -   MySQL
+    -   PostgreSQL
+    -   SQLite
 
 
 ## 🛠 Skills
@@ -23,8 +35,12 @@ number of stars a repository has.
 - Data Entry
 ## Programing Language
 - Python
-
-
-
 ## Screenshots
-![Ratings](https://github.com/SulemanMughal/Scraping-GitHub-Stars/blob/main/demo.PNG)
+![Excel Output](https://github.com/SulemanMughal/Scraping-GitHub-Stars/blob/main/demo.PNG)
+
+![Dictionary Output](https://github.com/SulemanMughal/Scraping-GitHub-Stars/blob/main/dict.png)
+
+![HTML Output](https://github.com/SulemanMughal/Scraping-GitHub-Stars/blob/main/dmeo_table.png)
+
+![JSON Output](https://github.com/SulemanMughal/Scraping-GitHub-Stars/blob/main/json_output.PNG)
+
