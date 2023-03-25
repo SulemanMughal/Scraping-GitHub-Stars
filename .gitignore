@@ -1,2 +1,5 @@
 *.py
 *.xlsx
+*.html
+*.csv
+*.json
