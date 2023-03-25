@@ -23,3 +23,8 @@ number of stars a repository has.
 - Data Entry
 ## Programing Language
 - Python
+
+
+
+## Screenshots
+![Ratings](https://github.com/SulemanMughal/Scraping-GitHub-Stars/blob/main/demo.PNG)
